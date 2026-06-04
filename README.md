@@ -1,15 +1,8 @@
 <div align="center">
+<img src="https://github.com/user-attachments/assets/717041fb-930a-42bb-8e87-845af12c2232" alt="꿈틀 로고" width="100%"/>
 
-<img src="YOUR_LOGO_URL" alt="꿈틀 로고" width="200"/>
 
-# 꿈틀 (Kkumteul)
-
-아이가 직접 만드는 AI 맞춤형 동화로 상상력, 어휘력, 사고력을 함께 키우는 유아 동화 서비스
 </div>
-
-<br/>
-
----
 
 ## 🎬 Service Preview
 
@@ -22,19 +15,34 @@
 
 ---
 
-## ✨ What We Build
+## ✨ Function
 
-- 교훈 · 등장인물 · 배경 선택 기반 AI 맞춤형 동화 자동 생성
-- 동화 도메인 특화 품사 순환 생성 구조(FP-Tree) + Propp 민담 구조론 적용
-- FLUX.2-klein-4B 기반 페이지별 삽화 자동 생성
-- 부모 목소리 1분 녹음으로 Voice Cloning TTS 구현 (GPT-SoVITS)
-- Kafka + Redis + SSE 기반 동화 · 삽화 · TTS 비동기 병렬 스트리밍
-- 3단계 지식그래프 게임 — 바구니 분류 → 별자리 조립 → 관계도 탐험
-- 페이지 단위 어휘 자동 추출 단어장 및 동화 공유 기능
+- AI 맞춤형 동화 자동 생성
+  - 교훈 · 등장인물 · 배경 선택 기반
+  - 동화 도메인 특화 품사 순환 생성 구조(FP-Tree)
+  - Propp 민담 구조론 적용
+
+- 페이지별 삽화 자동 생성
+  - FLUX.2-klein-4B 기반
+
+- Voice Cloning TTS
+  - 부모 목소리 1분 녹음
+  - GPT-SoVITS 적용
+
+- 비동기 병렬 스트리밍
+  - Kafka + Redis + SSE 기반
+  - 동화 · 삽화 · TTS 동시 생성
+
+- 지식그래프 게임
+  - 바구니 분류 → 별자리 조립 → 관계도 탐험
+
+- 학습 보조 기능
+  - 페이지 단위 어휘 자동 추출
+  - 단어장 및 동화 공유 기능
 
 ---
 
-## 📱 Screenshots
+## 🖥️ Serivce Screen
 
 <div align="center">
   
