@@ -124,10 +124,10 @@
       <a href="https://github.com/dkfjslrks19">@dkfjslrks19</a>
     </td>
     <td align="center" width="140px">
-      <img src="https://github.com/tpdus.png" width="80" style="border-radius:50%"/><br/>
+      <img src="https://github.com/tpdus112.png" width="80" style="border-radius:50%"/><br/>
       <b>윤세연</b><br/>
       Frontend<br/>
-      <a href="https://github.com/tpdus">@tpdus</a>
+      <a href="https://github.com/tpdus112">@tpdus</a>
     </td>
     <td align="center" width="140px">
       <img src="https://github.com/LgE02.png" width="80" style="border-radius:50%"/><br/>
