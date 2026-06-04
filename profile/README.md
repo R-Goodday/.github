@@ -114,22 +114,23 @@
 ## 👥 Team
 
 **참 좋은데이** | 지도교수: 정인환 교수님
-
+<div align="center">
+  
 <table>
   <tr>
-    <td align="center" width="140px">
+    <td align="center" width="160px">
       <img src="https://github.com/dkfjslrks19.png" width="80" style="border-radius:50%"/><br/>
       <b>선우영민</b><br/>
       Frontend<br/>
       <a href="https://github.com/dkfjslrks19">@dkfjslrks19</a>
     </td>
-    <td align="center" width="140px">
+    <td align="center" width="160px">
       <img src="https://github.com/tpdus112.png" width="80" style="border-radius:50%"/><br/>
       <b>윤세연</b><br/>
       Frontend<br/>
       <a href="https://github.com/tpdus112">@tpdus</a>
     </td>
-    <td align="center" width="140px">
+    <td align="center" width="160px">
       <img src="https://github.com/LgE02.png" width="80" style="border-radius:50%"/><br/>
       <b>이가은</b><br/>
       Backend<br/>
@@ -141,7 +142,7 @@
       Backend<br/>
       <a href="https://github.com/Joonseok-Lee">@Joonseok-Lee</a>
     </td>
-    <td align="center" width="140px">
+    <td align="center" width="160px">
       <img src="https://github.com/zzuhannn.png" width="80" style="border-radius:50%"/><br/>
       <b>조주한</b><br/>
       Backend<br/>
@@ -149,3 +150,5 @@
     </td>
   </tr>
 </table>
+
+</div>
