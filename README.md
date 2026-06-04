@@ -54,7 +54,7 @@
 ## 🏗️ Architecture
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d031f542-90b0-43bf-82f7-96b366c76f31" alt="아키텍처" width="100%"/>
+<img src="https://github.com/user-attachments/assets/d031f542-90b0-43bf-82f7-96b366c76f31" alt="아키텍처" width="70%"/>
 </div>
 
 - **SSE 실시간 스트리밍** — 텍스트 · 삽화 완성 즉시 클라이언트 전송, 3페이지 누적 시 화면 노출
@@ -129,7 +129,7 @@
       Backend<br/>
       <a href="https://github.com/LgE02">@LgE02</a>
     </td>
-    <td align="center" width="140px">
+    <td align="center" width="160px">
       <img src="https://github.com/Joonseok-Lee.png" width="80" style="border-radius:50%"/><br/>
       <b>이준석</b><br/>
       Backend<br/>
