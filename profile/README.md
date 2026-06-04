@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c0ebddb7-0cba-4323-a0d1-893fc99719b0" alt="꿈틀 로고" width="100%"/>
+<img src="https://github.com/user-attachments/assets/7159e799-b1a2-4b23-9540-67c2d6f24b37" alt="꿈틀 로고" width="100%"/>
 </div>
 
 ## 🎬 Service Preview
